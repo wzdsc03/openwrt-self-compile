@@ -1,0 +1,31 @@
+Package: cgi-io
+Version: 2021-09-08-98cef9dd-20
+Depends: libc, libubox20191228, libubus20210603
+Source: feeds/packages/net/cgi-io
+SourceName: cgi-io
+License: GPL-2.0-or-later
+Section: net
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: mipsel_24kc
+Installed-Size: 7562
+Filename: cgi-io_2021-09-08-98cef9dd-20_mipsel_24kc.ipk
+Size: 8361
+SHA256sum: 7eb994e536a4456d2b7846c279592f13d2206a1f845ba08a123e797c993c7e7b
+Description:  This package contains an cgi utility that is useful for up/downloading files
+
+Package: openssh-sftp-server
+Version: 8.0p1-1
+Depends: libc, libopenssl1.1, zlib
+Source: feeds/packages/net/openssh
+SourceName: openssh-sftp-server
+License: BSD ISC
+LicenseFiles: LICENCE
+Section: net
+Maintainer: Peter Wagner <tripolar@gmx.at>
+Architecture: mipsel_24kc
+Installed-Size: 39027
+Filename: openssh-sftp-server_8.0p1-1_mipsel_24kc.ipk
+Size: 39770
+SHA256sum: 1a88c91395e6b64a0cce08624e19ec71657686fcceba504d08d91255b9f6c57d
+Description:  OpenSSH SFTP server.
+
