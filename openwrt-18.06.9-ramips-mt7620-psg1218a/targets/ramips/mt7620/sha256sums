@@ -1,5 +1,0 @@
-eac10ab1c309d32e0c0d7c827b504dd294c4c6abeeefa49d5f5b0272b5d23f7c *config.seed
-a080d455d8ae25633bb467f78653ef0898e44694029eb46dc9ff57033238583c *openwrt-imagebuilder-ramips-mt7620.Linux-x86_64.tar.xz
-d1662bc9e9906fb4daebd1562e5af7dd45fe333772471da2927edca5f96f5dd8 *openwrt-ramips-mt7620-device-psg1218a.manifest
-17f07267feef5f4973ab1c22a851814fb1ac12ef19ba42c9763bc0a207994311 *openwrt-ramips-mt7620-psg1218a-squashfs-sysupgrade.bin
-8f7191405f96cf8d730c209b5c320d342ef3226f4292aeb6abfc2a4d7f21cb47 *openwrt-sdk-ramips-mt7620_gcc-7.3.0_musl.Linux-x86_64.tar.xz
