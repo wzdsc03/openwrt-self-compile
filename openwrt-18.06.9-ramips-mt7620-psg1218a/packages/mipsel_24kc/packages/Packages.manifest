@@ -1,0 +1,15 @@
+Package: openssh-sftp-server
+Version: 7.7p1-2
+Depends: libc
+Source: feeds/packages/net/openssh
+License: BSD ISC
+LicenseFiles: LICENCE
+Section: net
+Maintainer: Peter Wagner <tripolar@gmx.at>
+Architecture: mipsel_24kc
+Installed-Size: 36070
+Filename: openssh-sftp-server_7.7p1-2_mipsel_24kc.ipk
+Size: 36823
+SHA256sum: d59f12b89bfa54a17430cd65de1db504fc0cee862201a394372d8e43b8b27774
+Description:  OpenSSH SFTP server.
+
